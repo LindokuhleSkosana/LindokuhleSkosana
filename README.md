@@ -31,7 +31,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🌐 Connect With Me
 - [Portfolio](https://yourportfolio.com)
-- [LinkedIn](https://linkedin.com/in/lindokuhle)
+- [LinkedIn](https://www.linkedin.com/in/lindokuhle-skosana/)
 - [Twitter](https://twitter.com/lindokuhle)
 
 Thanks for stopping by! 😊 Feel free to explore my repositories, open an issue, or collaborate on a project!
