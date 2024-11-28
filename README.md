@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🚀 I’m a passionate developer and problem solv
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & Tools.
 Here are some of the technologies and tools I work with:
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat)
