@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lindokuhle!
+# 👋 Hi, I'm Lindokuhle Skosana!
 
 Welcome to my GitHub profile! 🚀 I’m a passionate developer and problem solver with a love for technology, coding, and creating impactful projects. Whether I’m building innovative solutions, exploring new frameworks, or collaborating with others, I aim to make a meaningful difference in the tech space.
 
