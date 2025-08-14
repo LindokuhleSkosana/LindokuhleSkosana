@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 ---
 
 ## 📈 GitHub Stats
-![Lindokuhle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lindokuhle&show_icons=true&theme=radical)
+![Lindokuhle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindokuhleskosana&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lindokuhle&layout=compact&theme=radical)
 
 ---
