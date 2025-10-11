@@ -26,6 +26,7 @@ Here are some of the technologies and tools I work with:
 ## 📈 GitHub Stats
 ![Lindokuhle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindokuhleskosana&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lindokuhleskosana&layout=compact&theme=radical)
+![Lindokuhle's GitHub Graph]([https://github-readme-stats.vercel.app/api?username=lindokuhleskosana&show_icons=true&theme=radical](https://camo.githubusercontent.com/09a2e62fe1dbce5268080c48aa2912266cb78f04b6903165194097baa086d715/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d54756d656c6f3237343826637573746f6d5f7469746c653d54756d656c6f2773253230476974487562253230416374697669747925323047726170682662675f636f6c6f723d30443131313726636f6c6f723d374633464246266c696e653d37463346424626706f696e743d37463346424626617265615f636f6c6f723d464646464646267469746c655f636f6c6f723d46464646464626617265613d74727565))
 
 ---
 
