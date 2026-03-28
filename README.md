@@ -44,11 +44,11 @@ const lindokuhle: SoftwareEngineer = {
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,dart,python,html,css&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,js,cs,dart,python,html,css&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Libraries**
 
-[![Skills](https://skillicons.dev/icons?i=flutter,react,nodejs,express,tailwind&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=flutter,dotnet,react,nodejs,express,tailwind&theme=dark)](https://skillicons.dev)
 
 **Databases & Cloud**
 
