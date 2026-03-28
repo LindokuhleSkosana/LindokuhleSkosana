@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380" alt="Cute coder gamer room vibes" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0yZjd5ZWNya2RsNWl5OWQ3cDlxOTFuNHZzeHZ2cHg4OTRvc2ttYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif" width="380" alt="Cute coder gamer room vibes" />
 
 </div>
 
