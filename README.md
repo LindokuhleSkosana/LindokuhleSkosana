@@ -19,6 +19,10 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=lindokuhleskosana&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile Views" />
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding with coffee" />
+
 </div>
 
 ---
