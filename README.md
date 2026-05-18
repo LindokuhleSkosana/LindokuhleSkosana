@@ -81,7 +81,7 @@ const lindokuhle: SoftwareEngineer = {
     </td>
     <td width="50%">
       <h3>📊 BLR Tutoring Dashboard</h3>
-      <p>A full-featured <strong>admin dashboard</strong> for a tutoring company. Dark-mode, super-admin access, student/grade/payment management, and SMS integrations.</p>
+      <p>A full-featured <strong>admin dashboard</strong> for a tutoring company. Dark-mode, super-admin access, student/grade/payment management, and SMS integrations..</p>
       <p>
         <img src="https://img.shields.io/badge/Node.js-Express-green?style=flat-square&logo=nodedotjs" />
         <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=flat-square&logo=supabase" />
