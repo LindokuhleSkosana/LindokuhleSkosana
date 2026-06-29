@@ -16,7 +16,7 @@
 [![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LindokuhleSko)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lindokuhleskosana)
 
-<br/>
+<br/>t
 <img src="https://komarev.com/ghpvc/?username=lindokuhleskosana&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
